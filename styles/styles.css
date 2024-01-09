@@ -106,3 +106,37 @@
     font-weight: 700;
     text-transform: uppercase;
 }
+
+/* Location section and time */
+
+.location {
+    text-align: center;
+    padding: 100px 385px 50px 385px;
+    background-color: rgba(255, 0, 0, 0.10);
+    max-width: 485px;
+    margin: 0 auto;
+
+    .location-detail {
+        color: #070211;
+        font-family: Inter;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 56px;
+        text-transform: capitalize;
+        margin-top: 0;
+    }
+
+    .join-us {
+        border-radius: 8px;
+        background: #F00;
+        font-size: large;
+        display: inline-flex;
+        padding: 16px 32px;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+    .red{
+        color: #F00;
+    }
