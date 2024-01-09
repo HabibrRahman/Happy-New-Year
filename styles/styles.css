@@ -62,3 +62,47 @@
     font-weight: 700;
     margin: 16px 196px 48px 196px;
 }
+
+/* welcome to midnight party */
+
+.welcome-to-midnight-party {
+    background-image: url("../Images/Vectorrr.png");
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 0;
+    margin-bottom: 120px;
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+}
+
+.welcome {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    text-align: left;
+    margin-bottom: 0;
+}
+
+.welcome-paragraph {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    margin-top: 24px;
+}
+
+.welcome-to-midnight-party>button {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
