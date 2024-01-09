@@ -1,0 +1,64 @@
+.header {
+    background-image: url("../Images/Banner\ Image.png");
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 0;
+}
+
+.banner {
+    text-align: center;
+    color: #FFF;
+    padding: 230px 340px 170px 340px;
+}
+
+.banner-greeting {
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.banner-title {
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    margin-top: 5px;
+}
+
+/* 65% off section */
+
+.offer {
+    text-align: center;
+    margin-top: 120px;
+}
+
+.offer-rate {
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    color: #F00;
+    margin-bottom: 50px;
+    margin-top: 0;
+}
+
+.deals {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.all-cetagories {
+    color: #070211;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    margin-top: 16px;
+}
